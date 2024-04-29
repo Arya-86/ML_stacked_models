@@ -26,7 +26,7 @@ Contributions
 We welcome contributions to this project. Please refer to the CONTRIBUTING.md for guidelines on how to make a contribution.
 
 License
-This project is licensed under the (Name of License), which allows for personal and educational use. For more details, see LICENSE.md.
+This project is licensed under the MIT, which allows for personal and educational use. For more details, see LICENSE.md.
 
 Contact
 For any queries or discussions related to this work, please open an issue or directly reach out to arya.j.skye@gmail.com.
