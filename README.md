@@ -1,4 +1,4 @@
-ML Stacked Models Architecture
+ailML Stacked Models Architecture
 Project Overview
 This repository hosts the architecture for stacked machine learning models developed as a solution for a challenge presented in our Machine Learning course.
 
@@ -22,7 +22,7 @@ Repository Structure
 
 
 Contributions
-We welcome contributions to this project. Please refer to the CONTRIBUTING.md for guidelines on how to make a contribution.
+We welcome contributions to this project. Please email for guidelines on how to make a contribution.
 
 License
 This project is licensed under the MIT, which allows for personal and educational use. For more details, see LICENSE.md.
