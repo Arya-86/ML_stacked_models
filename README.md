@@ -17,9 +17,8 @@ Data
 The dataset used in this project cannot be shared publicly. We provide scripts and model structures that can be applied to your dataset. If you're interested in the methodology and would like to test it on your own data, please ensure that your data is structured in a similar format as described in our model documentation.
 
 Repository Structure
-/models - Contains the definitions and structures of the machine learning models.
-/notebooks - Jupyter notebooks with exploratory data analysis and pseudo-code for model training experiments.
-/scripts - Utility scripts for data preprocessing, model training, and evaluation. (Note: These scripts are set up for demonstration purposes and require your own dataset.)
+
+/notebook - Colab notebook with exploratory data analysis and pseudo-code for model training experiments.
 
 
 Contributions
